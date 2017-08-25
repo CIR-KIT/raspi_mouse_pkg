@@ -1,0 +1,6 @@
+[submodule "src/quote/ros_setup_scripts_Ubuntu16.04_server"]
+	path = src/quote/ros_setup_scripts_Ubuntu16.04_server
+	url = git@github.com:CIR-KIT/ros_setup_scripts_Ubuntu16.04_server.git
+[submodule "src/quote/RaspberryPiMouse"]
+	path = src/quote/RaspberryPiMouse
+	url = git@github.com:CIR-KIT/RaspberryPiMouse.git
