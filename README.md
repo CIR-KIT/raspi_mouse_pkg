@@ -6,5 +6,7 @@
  - 障害物装甲ができる状態を作る
 
 質問等ありましたら @yasu80 かコラボレータにどうぞ.
-
-(注意事項集)[https://github.com/CIR-KIT/raspi_mouse_pkg/wiki]
+ 
+ # Ref
+ - [注意事項集](https://github.com/CIR-KIT/raspi_mouse_pkg/wiki )
+ - [公式サンプル](http://opencv.jp/sample/object_detection.html)
